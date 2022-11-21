@@ -3,15 +3,18 @@ class jefeFlota:tripulante{
     private int pesoMarisco{get;set;}
     private int sueldo=3500;
 
-    private double bonoPescado, bonoMarisco,totalSueldo;
+    private double bonoPescado, bonoMarisco,totalSueldo,bono;
 
     public jefeFlota(string nombre,string telefono,string cedula, int edad, int tiempoenEmpresa, string sexo, string barco, int pesoPescado,int pesoMarisco):base(nombre,telefono,cedula,edad,tiempoenEmpresa,sexo,barco){
         this.pesoPescado=pesoMarisco;
         this.pesoMarisco=pesoMarisco;
     }
-    public double CalculoBonoPescado(){
+    public double CalculoBono(){
         bonoPescado=pesoPescado*0.01;
-        return bonoPescado;
+        bonoMarisco=pesoMarisco*0.02;
+        bono=bonoMarisco+bonoPescado;
+
+        return bono;
     }
     public double CalculoBonoMarisco(){
         bonoMarisco=pesoMarisco*0.02;
