@@ -16,9 +16,6 @@
 
         capitan capitan1=new capitan("Alexander","1316819885","0983733654",19,2,"M","El Perla Negra",4380);
         
-        
-
-
 
         List<tripulante> tripulantes = new List<tripulante>();
         tripulantes.Add(marinero1);
@@ -33,18 +30,14 @@
 
         foreach(tripulante item in tripulantes)
         {
-            Console.WriteLine(item.nombre+" "+item.cedula+" "+item.edad+" "+item.telefono+" "+item.barco+item.sexo);
+            Console.WriteLine("El tripulante con los datos: ");
+            item.Imprimir();
+
+            Console.WriteLine("Tiene un sueldo total de: "+item.Sueldo());
+            
         }
         
-        marinero1.Imprimir();
-        marinero2.Imprimir();
-        marinero3.Imprimir();
-        marinero4.Imprimir();
-        
-        jefeFlota1.Imprimir();
-        jefeFlota2.Imprimir();
-        
-        capitan1.Imprimir();
+
 
     }
 }

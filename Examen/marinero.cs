@@ -7,15 +7,12 @@ class marinero:tripulante{
     public marinero(string nombre,string telefono,string cedula, int edad, int tiempoenEmpresa, string sexo, string barco,int pesoTotalPescado):base(nombre,telefono,cedula,edad,tiempoenEmpresa,sexo,barco){
         this.pesoTotalPescado=pesoTotalPescado;
     }
-    public double CalculoBono(){
+    public override double Sueldo()
+    {
         if(pesoTotalPescado>=1){
             bono=0.25*pesoTotalPescado;
 
         }
-        return bono;
-    }
-    public override double Sueldo()
-    {
         totalSueldo=sueldo+bono;
         return totalSueldo;
     }

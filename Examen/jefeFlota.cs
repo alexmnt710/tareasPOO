@@ -9,20 +9,16 @@ class jefeFlota:tripulante{
         this.pesoPescado=pesoMarisco;
         this.pesoMarisco=pesoMarisco;
     }
-    public double CalculoBono(){
+
+    public override double Sueldo()
+    {
+        if(pesoMarisco >=1 || pesoPescado>=1){
         bonoPescado=pesoPescado*0.01;
         bonoMarisco=pesoMarisco*0.02;
         bono=bonoMarisco+bonoPescado;
-
-        return bono;
-    }
-    public double CalculoBonoMarisco(){
-        bonoMarisco=pesoMarisco*0.02;
-        return bonoMarisco;
-    }
-    public override double Sueldo()
-    {
-        totalSueldo=sueldo+bonoPescado+bonoMarisco;
+        }
+        totalSueldo=totalSueldo+bono;
+        totalSueldo=totalSueldo+sueldo;
         return totalSueldo;
     }
     public override void Imprimir()

@@ -7,6 +7,7 @@ abstract class tripulante{
     public string sexo{get;set;}
     public string barco{get;set;}
 
+
     public tripulante(string nombre,string telefono,string cedula, int edad, int tiempoenEmpresa, string sexo, string barco){
         this.nombre=nombre;
         this.telefono=telefono;
@@ -18,6 +19,7 @@ abstract class tripulante{
     }
 
     public abstract double Sueldo();
+
     public abstract void Imprimir();
 
 }

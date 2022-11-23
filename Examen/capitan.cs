@@ -7,22 +7,23 @@ class capitan:tripulante{
     public capitan(string nombre,string telefono,string cedula, int edad, int tiempoenEmpresa, string sexo, string barco, int horasExp):base(nombre,telefono,cedula,edad,tiempoenEmpresa,sexo,barco){
         this.horasExp=horasExp;
     }
-    public double CalculoBono(){
+    public override double Sueldo()
+    {
         if(horasExp>=5000 && horasExp<150000){
             bono=0.2*sueldo;
+            totalSueldo=totalSueldo+bono;
 
         }
         if(horasExp>=150000 && horasExp < 300000){
             bono=0.4*sueldo;
+            totalSueldo=totalSueldo+bono;
         }
-        if(horasExp>=300000){
+        if(horasExp>300000){
             bono=0.75*sueldo;
+            totalSueldo=totalSueldo+bono;
         }
-        return bono;
-    }
-    public override double Sueldo()
-    {
-        totalSueldo=sueldo+bono;
+
+        totalSueldo=totalSueldo+sueldo;
         return totalSueldo;
     }
     public override void Imprimir()
