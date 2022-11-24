@@ -1,16 +1,11 @@
-﻿internal partial class Program
+﻿internal class Program
 {
     private static void Main(string[] args)
     {
-        int numero, factorial=1;
-        Console.WriteLine("Ingrese un numero por favor");
-        numero= int.Parse(Console.ReadLine());
-
-        for(int i=1; i<=numero;i++){
-            factorial=factorial*i;
-        }
-
-        Console.WriteLine("El factorial de "+numero+" es "+factorial);
+        Console.WriteLine("Calcular el factorial del numero deseado");
+        Console.WriteLine("ingrese el numero");
+        proceso proceso1 = new proceso ();
+        proceso1.calculo();
 
     }
 }
