@@ -1,0 +1,15 @@
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\bin\Debug\net6.0\Exposicion.exe
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\bin\Debug\net6.0\Exposicion.deps.json
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\bin\Debug\net6.0\Exposicion.runtimeconfig.json
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\bin\Debug\net6.0\Exposicion.dll
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\bin\Debug\net6.0\Exposicion.pdb
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.csproj.AssemblyReference.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.AssemblyInfoInputs.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.AssemblyInfo.cs
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.csproj.CoreCompileInputs.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.dll
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\refint\Exposicion.dll
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.pdb
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\Exposicion.genruntimeconfig.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Exposicion\obj\Debug\net6.0\ref\Exposicion.dll
