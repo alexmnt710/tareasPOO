@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\bin\Debug\net6.0\practica para aporte.exe
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\bin\Debug\net6.0\practica para aporte.deps.json
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\bin\Debug\net6.0\practica para aporte.runtimeconfig.json
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\bin\Debug\net6.0\practica para aporte.dll
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\bin\Debug\net6.0\practica para aporte.pdb
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.AssemblyInfo.cs
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.dll
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\refint\practica para aporte.dll
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.pdb
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\practica para aporte.genruntimeconfig.cache
+C:\Users\User\Documents\Alex Meneses\Visual Studio\practica para aporte\obj\Debug\net6.0\ref\practica para aporte.dll
